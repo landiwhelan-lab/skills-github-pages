@@ -1,4 +1,4 @@
 ---
 # title: Welcome to my blog!
 ---
-## Github Pages Exercise
+## Learning how  to create GitHub pages
